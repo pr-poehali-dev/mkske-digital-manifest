@@ -19,8 +19,8 @@ export default {
 		},
 		extend: {
 			fontFamily: {
-				display: ['Oswald', 'sans-serif'],
-				body: ['Rubik', 'sans-serif'],
+				display: ['Unbounded', 'sans-serif'],
+				body: ['Manrope', 'sans-serif'],
 				mono: ['JetBrains Mono', 'monospace'],
 			},
 			colors: {
