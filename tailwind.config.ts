@@ -19,8 +19,8 @@ export default {
 		},
 		extend: {
 			fontFamily: {
-				display: ['Unbounded', 'sans-serif'],
-				body: ['Manrope', 'sans-serif'],
+				display: ['Montserrat', 'sans-serif'],
+				body: ['Inter', 'sans-serif'],
 				mono: ['JetBrains Mono', 'monospace'],
 			},
 			colors: {
